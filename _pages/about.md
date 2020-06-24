@@ -1,10 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Doctoral Researcher, Department of Civil and Environmental Engineering (CEE), PolyU, Hong Kong.
 
-Etc, etc, etc
+
+Currently, I am working on the Traffic Assignment problem. To be more specific, I am mastering MP formulation of Stochastic User Equilibrium (SUE). These days I am practicing with the Multinomial Logit based SUE (MNL), Cross-Nested Logit (CNL) based SUE, and Pair-Combinatorial Logit (PCL) based SUE formulations and their extentions.
