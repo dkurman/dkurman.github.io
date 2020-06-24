@@ -1,9 +1,0 @@
----
-title: "About"
-permalink: /about/
----
-
-Doctoral Researcher, Department of Civil and Environmental Engineering (CEE), PolyU, Hong Kong.
-
-
-Currently, I am working on the Traffic Assignment problem. To be more specific, I am mastering MP formulation of Stochastic User Equilibrium (SUE). These days I am practicing with the Multinomial Logit based SUE (MNL), Cross-Nested Logit (CNL) based SUE, and Pair-Combinatorial Logit (PCL) based SUE formulations and their extentions.
